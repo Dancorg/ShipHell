@@ -1,0 +1,4 @@
+ShipHell
+========
+
+Space RTS experiment
